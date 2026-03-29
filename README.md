@@ -1,9 +1,9 @@
 <h1 align="center">Hi there👋</h1>
 
 <p align="center">
-  <a href="mailto:hi@sqiu.dev"><img src="https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=white" alt="Email" height="28"></a>
-  <a href="https://linkedin.com/in/siyuan-qiu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"></a>
-  <a href="https://sqiu.dev/"><img src="https://img.shields.io/badge/Portfolio-252525?style=flat&logo=github&logoColor=white" alt="Portfolio" height="28"></a>
+  <a href="mailto:hi@sqiu.dev"><img src="https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://linkedin.com/in/siyuan-qiu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://sqiu.dev/"><img src="https://img.shields.io/badge/Portfolio-252525?style=flat&logo=github&logoColor=white" alt="Portfolio"></a>
 </p>
 
 <p align="center">
@@ -35,6 +35,7 @@
   <a href="https://azure.microsoft.com/"><img src="https://skillicons.dev/icons?i=azure" align="absmiddle" /></a>&nbsp;
   &emsp;&emsp;&emsp;&emsp;
   <b>Tools</b>&emsp;
+  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" align="absmiddle" /></a>&nbsp;
   <a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio" align="absmiddle" /></a>&nbsp;
   <a href="https://unity.com/"><img src="https://skillicons.dev/icons?i=unity" align="absmiddle" /></a>&nbsp;
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" align="absmiddle" /></a>&nbsp;
