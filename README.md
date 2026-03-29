@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋</h1>
+<p align="center">CS Student @ UPM</p>
 
-<!--
-**Qiu2025/Qiu2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>Languages</b>&emsp;<img src="https://skillicons.dev/icons?i=c,cs,java,bash" align="absmiddle" />
+  &emsp;&emsp;&emsp;&emsp;
+  <b>Backend</b>&emsp;<img src="https://skillicons.dev/icons?i=spring,mysql,maven,postman" align="absmiddle" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <b>Infra</b>&emsp;<img src="https://skillicons.dev/icons?i=docker,gcp,azure,cloudflare" align="absmiddle" />
+  &emsp;&emsp;&emsp;&emsp;
+  <b>Tools</b>&emsp;<img src="https://skillicons.dev/icons?i=vscode,androidstudio,unity,git,md" align="absmiddle" />
+</p>
