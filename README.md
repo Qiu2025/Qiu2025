@@ -8,7 +8,7 @@
 
 <p align="center">
   🌍 Spanish, Chinese, English <br>
-  <i>✨ Creating bugs since 2025</i>
+  <i>✨ Creating bugs since 2023</i>
 </p>
 
 <br>
