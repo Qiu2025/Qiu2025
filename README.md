@@ -11,6 +11,7 @@
   <i>✨ Creating bugs since 2023</i>
 </p>
 
-<br>
-
-<p align="center"> <b>Languages</b>&emsp; <a href="https://www.java.com/es/"><img src="https://skillicons.dev/icons?i=java" align="absmiddle" /></a>&nbsp; <a href="https://www.c-language.org/"><img src="https://skillicons.dev/icons?i=c" align="absmiddle" /></a> </p> <p align="center"> <b>Development</b>&emsp; <a href="https://spring.io/"><img src="https://skillicons.dev/icons?i=spring" align="absmiddle" /></a>&nbsp; <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" align="absmiddle" /></a>&nbsp; <a href="https://unity.com/"><img src="https://skillicons.dev/icons?i=unity" align="absmiddle" /></a>&nbsp; <a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio" align="absmiddle" /></a> </p> <p align="center"> <b>Infrastructure</b>&emsp; <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" align="absmiddle" /></a>&nbsp; <a href="https://www.cloudflare.com/"><img src="https://skillicons.dev/icons?i=cloudflare" align="absmiddle" /></a>&nbsp; <a href="https://cloud.google.com/"><img src="https://skillicons.dev/icons?i=gcp" align="absmiddle" /></a>&nbsp; <a href="https://azure.microsoft.com/"><img src="https://skillicons.dev/icons?i=azure" align="absmiddle" /></a> </p> <p align="center"> <b>Tools</b>&emsp; <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" align="absmiddle" /></a>&nbsp; <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" align="absmiddle" /></a>&nbsp; <a href="https://maven.apache.org/"><img src="https://skillicons.dev/icons?i=maven" align="absmiddle" /></a>&nbsp; <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" align="absmiddle" /></a> </p>
+<p align="center"> 
+  <img src="./assets/skills-dark.svg#gh-dark-mode-only" alt="Skills" /> 
+  <img src="./assets/skills-light.svg#gh-light-mode-only" alt="Skills" /> 
+</p>
